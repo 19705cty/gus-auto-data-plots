@@ -1,0 +1,1056 @@
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Dialing master at addr 10.10.1.1:7087
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:55974
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:55984
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35036
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56000
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:55990
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56014
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56006
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56044
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35026
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35078
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35068
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35052
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35038
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56032
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56026
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56022
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33508
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56048
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33520
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56046
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35088
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35128
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33550
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56162
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56170
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56148
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33546
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56142
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35118
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56136
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35132
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56204
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33568
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35170
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33552
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35162
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35146
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35144
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56200
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35110
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35134
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56186
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56174
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56122
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56116
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35102
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33536
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33588
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33534
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56248
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56086
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56246
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56078
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56100
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56062
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33580
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56238
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56058
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35180
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56224
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56054
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56212
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56258
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33530
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33604
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Got replica list from master.
+2023/09/03 15:14:53 Connecting to replicas...
+2023/09/03 15:14:53 Dialing replica 0 with addr 10.10.1.2:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56366
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35340
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35330
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33522
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56358
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35322
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35312
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33672
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33650
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35346
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35298
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33664
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35344
+2023/09/03 15:14:53 Received ping from replica 1 in time 1523915
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56352
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56374
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35274
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33712
+2023/09/03 15:14:53 Received ping from replica 0 in time 1797421
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Received ping from replica 1 in time 1805223
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33636
+2023/09/03 15:14:53 Received ping from replica 0 in time 1812981
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35264
+2023/09/03 15:14:53 Received ping from replica 1 in time 552939
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Received ping from replica 1 in time 2007219
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 2019398
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33704
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56342
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Received ping from replica 2 in time 797776
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 1 in time 2277466
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 2244021
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56338
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35254
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Received ping from replica 0 in time 2537794
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35244
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35240
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35238
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Received ping from replica 2 in time 3264669
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 2 in time 12266248
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 12464906
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Received ping from replica 2 in time 12567906
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56326
+2023/09/03 15:14:53 Received ping from replica 1 in time 18298007
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 0 in time 18336506
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56324
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56310
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35218
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35208
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56298
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56284
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35192
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33632
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33618
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56282
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 0 with connection 10.10.1.1:56266
+2023/09/03 15:14:53 Dialing replica 1 with addr 10.10.1.4:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35184
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33612
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35282
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33732
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33742
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Sending ping to replica 0
+2023/09/03 15:14:53 Sending ping to replica 1
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33730
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33726
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35382
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35374
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33720
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35354
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35358
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33690
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33678
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Received ping from replica 2 in time 2361900
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 2 in time 30839545
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 0 in time 13729024
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 1 in time 14107948
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 14182691
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 14154182
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 14291941
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 14365031
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 14404185
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 2 in time 14706919
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 14812243
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 14987482
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 15084238
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 2 in time 15240233
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 15313682
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 15461032
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 2 in time 16147562
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 2 in time 16236020
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 2 in time 32518410
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35224
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 The leader is replica 0
+2023/09/03 15:14:53 Determining replica pings...
+2023/09/03 15:14:53 Sending ping to replica 2
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33846
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33834
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33822
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33814
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33808
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Received ping from replica 1 in time 32908597
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 1 in time 33041736
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 33256894
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 0 in time 32980332
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 33225922
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 0 in time 33178060
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 33291547
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 0 in time 33247462
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 1 in time 33308959
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 0 in time 42624481
+2023/09/03 15:14:53 Done pinging replica 1.
+2023/09/03 15:14:53 Successfully pinged all replicas!
+2023/09/03 15:14:53 Received ping from replica 1 in time 51357384
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Received ping from replica 0 in time 51412316
+2023/09/03 15:14:53 Done pinging replica 0.
+2023/09/03 15:14:53 Received ping from replica 2 in time 17660266
+2023/09/03 15:14:53 Done pinging replica 2.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33804
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33792
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33776
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35448
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35432
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33760
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35418
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35402
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33756
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 2 with connection 10.10.1.1:33754
+2023/09/03 15:14:53 Successfully connected to all 3 replicas.
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35400
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35394
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:53 Connected to replica 1 with connection 10.10.1.1:35392
+2023/09/03 15:14:53 Dialing replica 2 with addr 10.10.1.3:7070
+2023/09/03 15:14:54 Received ping from replica 1 in time 62815064
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 75428221
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 84275190
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 59861215
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 59936801
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 60022953
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 92624088
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 92614301
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 63641660
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 63611942
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 63731522
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 63793972
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 63943085
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 63897320
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33852
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 Received ping from replica 2 in time 92405720
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 97828904
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33930
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Received ping from replica 1 in time 100384448
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33926
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33912
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33898
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33884
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33870
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Connected to replica 2 with connection 10.10.1.1:33866
+2023/09/03 15:14:54 Successfully connected to all 3 replicas.
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Received ping from replica 0 in time 105269479
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Received ping from replica 1 in time 8232901
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 8266922
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 8404579
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 8449770
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 8505141
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 29707350
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 29979368
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 29839445
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30105443
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30059052
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30223326
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30451247
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30581823
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 30580287
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 1 in time 22430896
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 22544926
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 22528852
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 22733662
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 22745642
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 38705276
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 38720301
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 37733400
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 53690557
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 60226567
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 63515464
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 63643427
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 80017067
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 83011167
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 Received ping from replica 2 in time 105515330
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 105691757
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Received ping from replica 2 in time 106177880
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 1 in time 106510412
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 106560043
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 106638817
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 106897625
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 119676430
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 119668077
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 119871141
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 119774618
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 The leader is replica 0
+2023/09/03 15:14:54 Determining replica pings...
+2023/09/03 15:14:54 Sending ping to replica 2
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Sending ping to replica 0
+2023/09/03 15:14:54 Sending ping to replica 1
+2023/09/03 15:14:54 Received ping from replica 0 in time 146488902
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 146565836
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 146573372
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 142500101
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 160138165
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 65520346
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 65593956
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 65582802
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 65611209
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 2 in time 71982959
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 54015154
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 191335795
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Received ping from replica 0 in time 54554082
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 191577009
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Received ping from replica 2 in time 60285907
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 1 in time 191484093
+2023/09/03 15:14:54 Received ping from replica 1 in time 191417472
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 60996702
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 2 in time 61221465
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 2 in time 61443550
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Received ping from replica 2 in time 61677159
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 46309668
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 46369591
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 46388359
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 0 in time 46444971
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 195948355
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 195970763
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 184182306
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Received ping from replica 1 in time 184339895
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 56297550
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 0 in time 190427557
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 63030778
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Received ping from replica 1 in time 78760715
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 81691085
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 1 in time 54172887
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Received ping from replica 0 in time 54318979
+2023/09/03 15:14:54 Done pinging replica 0.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Received ping from replica 2 in time 129276168
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Successfully pinged all replicas!
+2023/09/03 15:14:54 Done pinging replica 1.
+2023/09/03 15:14:54 Received ping from replica 2 in time 60679113
+2023/09/03 15:14:54 Done pinging replica 2.
+2023/09/03 15:14:54 Successfully pinged all replicas!
