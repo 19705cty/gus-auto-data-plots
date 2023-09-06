@@ -1,0 +1,6 @@
+2023/09/06 12:31:55 Connected to node:  10.10.1.4
+2023/09/06 12:31:55 Connected to node:  10.10.1.4
+2023/09/06 12:31:55 0
+2023/09/06 12:31:55 0
+2023/09/06 12:31:55 Error when reading: read tcp 10.10.1.4:45768->10.10.1.2:7070: read: connection reset by peer
+2023/09/06 12:31:55 Error connecting to replica 10.10.1.2:7070
