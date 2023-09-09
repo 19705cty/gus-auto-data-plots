@@ -1,0 +1,168 @@
+2023/09/08 19:47:04 Server starting on port 7070
+2023/09/08 19:47:04 Master not ready for replica registration
+2023/09/08 19:47:05 Master not ready for replica registration
+2023/09/08 19:47:06 Master not ready for replica registration
+2023/09/08 19:47:07 Master not ready for replica registration
+2023/09/08 19:47:08 Master not ready for replica registration
+2023/09/08 19:47:09 Master not ready for replica registration
+2023/09/08 19:47:10 Master not ready for replica registration
+2023/09/08 19:47:11 Master not ready for replica registration
+2023/09/08 19:47:12 Master not ready for replica registration
+2023/09/08 19:47:13 Master not ready for replica registration
+2023/09/08 19:47:14 Got node list from master: [
+2023/09/08 19:47:14 10.10.1.2:7070
+2023/09/08 19:47:14 , 
+2023/09/08 19:47:14 10.10.1.3:7070
+2023/09/08 19:47:14 , 
+2023/09/08 19:47:14 10.10.1.4:7070
+2023/09/08 19:47:14 ]
+2023/09/08 19:47:14 Starting Gryff replica...
+2023/09/08 19:47:14 rpc.Register: method "CompleteRead" has 5 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "CompleteWrite" has 4 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "ConnectToPeers" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "ConnectToPeersNoListeners" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 Beginning to connect to peers...
+2023/09/08 19:47:14 rpc.Register: reply type of method "DelayRPC" is not a pointer: "uint8"
+2023/09/08 19:47:14 Listening for peers on :7070
+2023/09/08 19:47:14 rpc.Register: method "Finish" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "GetClientWriter" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "GetCurrentValue" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "GetReplicasByRank" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "GetStats" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "GetStoreMetadata" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "HandleOverwrite" has 4 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "HandleWrite1Overwrite" has 0 output parameters; needs exactly one
+2023/09/08 19:47:14 rpc.Register: method "NeedsWaitForExecute" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "Printf" is not a pointer: "[]interface {}"
+2023/09/08 19:47:14 rpc.Register: method "RegisterClientRPC" has 4 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "RegisterRPC" is not a pointer: "chan fastrpc.Serializable"
+2023/09/08 19:47:14 rpc.Register: method "ReplyBeacon" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "ReplyPropose" has 0 output parameters; needs exactly one
+2023/09/08 19:47:14 rpc.Register: method "ReplyProposeTS" has 0 output parameters; needs exactly one
+2023/09/08 19:47:14 rpc.Register: method "SendBeacon" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "SendMsg" has 4 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "SendMsgNoFlush" has 4 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "SendRead1" is not a pointer: "[]int32"
+2023/09/08 19:47:14 rpc.Register: reply type of method "SendRead2" is not a pointer: "[]int32"
+2023/09/08 19:47:14 rpc.Register: reply type of method "SendWrite1" is not a pointer: "[]int32"
+2023/09/08 19:47:14 rpc.Register: method "SendWrite1Timeout" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "SendWrite2" is not a pointer: "[]int32"
+2023/09/08 19:47:14 rpc.Register: method "SendWrite2ConcurrentTimeout" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "SetCurrentValue" is not a pointer: "state.Value"
+2023/09/08 19:47:14 rpc.Register: method "SetForceWrite" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "ShouldDelayNextRPC" is not a pointer: "uint8"
+2023/09/08 19:47:14 rpc.Register: method "SlowClock" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "StopAdapting" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "TagSeen" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: reply type of method "UndelayRPCs" is not a pointer: "uint8"
+2023/09/08 19:47:14 rpc.Register: method "UpdatePreferredPeerOrder" has 2 input parameters; needs exactly three
+2023/09/08 19:47:14 rpc.Register: method "WaitForClientConnections" has 1 input parameters; needs exactly three
+2023/09/08 19:47:14 Listening for RPCs on port 8070
+2023/09/08 19:47:15 Peer sent 2 as id (3 total peers).
+2023/09/08 19:47:15 Successfully established connection with peer 2
+2023/09/08 19:47:16 Peer sent 1 as id (3 total peers).
+2023/09/08 19:47:16 Successfully established connection with peer 1
+2023/09/08 19:47:16 Replica id: 0. Done connecting to peers
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56522
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56538
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56554
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56562
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56570
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56578
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56588
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56596
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56606
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56618
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56632
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56642
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56648
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56654
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56666
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56682
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56684
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56700
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56702
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56714
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56726
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56728
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56738
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56740
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56744
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56756
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56760
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56766
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56776
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56786
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56802
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56810
+2023/09/08 19:47:19 Received Ping from client 32
+2023/09/08 19:47:19 Received Ping from client 27
+2023/09/08 19:47:19 Received Ping from client 21
+2023/09/08 19:47:19 Received Ping from client 37
+2023/09/08 19:47:19 Received Ping from client 20
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56812
+2023/09/08 19:47:19 Received Ping from client 42
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56814
+2023/09/08 19:47:19 Received Ping from client 43
+2023/09/08 19:47:19 Received Ping from client 15
+2023/09/08 19:47:19 Received Ping from client 11
+2023/09/08 19:47:19 Received Ping from client 45
+2023/09/08 19:47:19 Accepted client connection 10.10.1.1:56820
+2023/09/08 19:47:19 Received Ping from client 16
+2023/09/08 19:47:19 Received Ping from client 7
+2023/09/08 19:47:19 Received Ping from client 41
+2023/09/08 19:47:19 Received Ping from client 24
+2023/09/08 19:47:19 Received Ping from client 36
+2023/09/08 19:47:19 Received Ping from client 44
+2023/09/08 19:47:19 Received Ping from client 6
+2023/09/08 19:47:19 Received Ping from client 39
+2023/09/08 19:47:19 Received Ping from client 46
+2023/09/08 19:47:19 Received Ping from client 38
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56830
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56834
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56836
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56848
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56858
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56868
+2023/09/08 19:47:20 Received Ping from client 12
+2023/09/08 19:47:20 Received Ping from client 47
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56870
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56874
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56886
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56902
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56918
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56920
+2023/09/08 19:47:20 Accepted client connection 10.10.1.1:56930
+2023/09/08 19:47:20 Received Ping from client 19
+2023/09/08 19:47:20 Received Ping from client 35
+2023/09/08 19:47:20 Received Ping from client 13
+2023/09/08 19:47:20 Received Ping from client 33
+2023/09/08 19:47:20 Received Ping from client 10
+2023/09/08 19:47:20 Received Ping from client 18
+2023/09/08 19:47:20 Received Ping from client 14
+2023/09/08 19:47:20 Received Ping from client 17
+2023/09/08 19:47:20 Received Ping from client 40
+2023/09/08 19:47:20 Received Ping from client 9
+2023/09/08 19:47:20 Received Ping from client 31
+2023/09/08 19:47:20 Received Ping from client 34
+2023/09/08 19:47:20 Received Ping from client 28
+2023/09/08 19:47:20 Received Ping from client 23
+2023/09/08 19:47:20 Received Ping from client 26
+2023/09/08 19:47:20 Received Ping from client 0
+2023/09/08 19:47:20 Received Ping from client 8
+2023/09/08 19:47:20 Received Ping from client 25
+2023/09/08 19:47:20 Received Ping from client 1
+2023/09/08 19:47:20 Received Ping from client 2
+2023/09/08 19:47:20 Received Ping from client 22
+2023/09/08 19:47:20 Received Ping from client 29
+2023/09/08 19:47:20 Received Ping from client 3
+2023/09/08 19:47:20 Received Ping from client 5
+2023/09/08 19:47:20 Received Ping from client 4
+2023/09/08 19:47:20 Received Ping from client 30
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56834: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56814: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56744: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56728: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56588: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56570: read: connection reset by peer
+2023/09/08 19:50:19 Error reading opcode from client: read tcp 10.10.1.2:7070->10.10.1.1:56554: read: connection reset by peer

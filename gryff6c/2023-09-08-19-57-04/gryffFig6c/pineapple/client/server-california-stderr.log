@@ -1,0 +1,31 @@
+2023/09/08 20:03:57 Server starting on port 7070
+2023/09/08 20:04:07 Starting Pineapple replica...
+2023/09/08 20:04:07 rpc.Register: method "ConnectToPeers" has 1 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "ConnectToPeersNoListeners" has 1 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: reply type of method "RegisterRPC" is not a pointer: "chan fastrpc.Serializable"
+2023/09/08 20:04:07 rpc.Register: method "ReplyBeacon" has 2 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "ReplyPropose" has 0 output parameters; needs exactly one
+2023/09/08 20:04:07 rpc.Register: method "ReplyProposeTS" has 0 output parameters; needs exactly one
+2023/09/08 20:04:07 rpc.Register: method "Run" has 1 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "SendBeacon" has 2 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "SendMsg" has 4 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "SendMsgNoFlush" has 4 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "UpdatePreferredPeerOrder" has 2 input parameters; needs exactly three
+2023/09/08 20:04:07 rpc.Register: method "WaitForClientConnections" has 1 input parameters; needs exactly three
+2023/09/08 20:04:08 Replica id: 0. Done connecting to peers
+2023/09/08 20:04:08 Waiting for client connections
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37650: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37638: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37640: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37642: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37634: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37636: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37644: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37624: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37626: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37646: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37630: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37648: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37620: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37622: read: connection reset by peer
+2023/09/08 20:07:12 Error when reading from client connection: read tcp 10.10.1.2:7070->10.10.1.2:37628: read: connection reset by peer
