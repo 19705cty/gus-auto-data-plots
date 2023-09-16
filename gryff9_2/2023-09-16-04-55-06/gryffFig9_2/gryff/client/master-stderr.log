@@ -1,0 +1,18 @@
+2023/09/16 04:58:32 Master starting on port 7087
+2023/09/16 04:58:32 ...waiting for 5 replicas
+2023/09/16 04:58:32 rpc.Register: method "Run" has 1 input parameters; needs exactly three
+2023/09/16 04:58:32 rpc.Register: method "Serve" has 1 input parameters; needs exactly three
+2023/09/16 04:58:32 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:33 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:34 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:35 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:36 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:37 Replica registering with addr 10.10.1.3 and port 7070
+2023/09/16 04:58:37 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:37 Replica registering with addr 10.10.1.4 and port 7070
+2023/09/16 04:58:37 Replica registering with addr 10.10.1.5 and port 7070
+2023/09/16 04:58:37 Replica registering with addr 10.10.1.6 and port 7070
+2023/09/16 04:58:38 Replica registering with addr 10.10.1.3 and port 7070
+2023/09/16 04:58:38 Replica registering with addr 10.10.1.2 and port 7070
+2023/09/16 04:58:38 Replica registering with addr 10.10.1.4 and port 7070
+2023/09/16 04:58:38 Replica registering with addr 10.10.1.5 and port 7070
